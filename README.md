@@ -1,4 +1,4 @@
-# Authentication & Authorization | Part 3
+# Authentication & Authorization
 
 - Router Switch
   - User Defined Components
